@@ -1,0 +1,2 @@
+so here I am using GIT, what am I gonna do? figure this shit out. That's what I'm gonna do. 
+writing some more stuff on line 2 to check if it gets the modified tag with git status
